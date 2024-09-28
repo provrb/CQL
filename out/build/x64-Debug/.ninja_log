@@ -1,0 +1,12 @@
+# ninja log v5
+21	1773	7267344953902420	CMakeFiles/main.dir/src/main.cpp.obj	1ae1d14de2934cfb
+4	1429	7266794432616107	CMakeFiles/main.dir/src/cql_api.cpp.obj	58047a255f662c7c
+1619	1939	7268002120183352	main.exe.exe	653c8bfeb4f3c905
+1429	2527	7266794442694304	main.exe	ba1ab84a0ab4ca88
+117	3210	7273942533526864	CMakeFiles/main.exe.dir/src/main.cpp.obj	6797632b013523f7
+12	1619	7268002117831237	CMakeFiles/main.exe.dir/src/cql_api.cpp.obj	972f9822379c2d1c
+7	2436	7315730680754558	CMakeFiles/main.exe.dir/src/main.cpp.obj	6797632b013523f7
+3	2514	7315730681539331	CMakeFiles/main.exe.dir/src/cql_api.cpp.obj	972f9822379c2d1c
+9	17	0	clean	8c45b54705a541e8
+10	1996	7315731456052400	CMakeFiles/main.exe.dir/src/main.cpp.obj	6797632b013523f7
+6	2183	7315731457888505	CMakeFiles/main.exe.dir/src/cql_api.cpp.obj	972f9822379c2d1c
